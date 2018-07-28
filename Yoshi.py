@@ -20,7 +20,7 @@ def on_message(message):
     if 'yoshi' in message.content.lower() and 'sorry' in message.content.lower():
         yield from client.send_message(message.channel, 'NP, just don\'t do it again dude')
     elif 'yoshi' in message.content.lower():
-        yield from client.send_message(message.channel, 'What do you mean by that?')
+        yield from client.send_message(message.channel, commands.random_answer())
     elif message.content.startswith('!'):
         yield from client.send_message(message.channel, commands.commands(message.content))
     elif 'firas' in message.content.lower() and 'great' in message.content.lower():
