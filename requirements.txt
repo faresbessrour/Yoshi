@@ -16,7 +16,7 @@ enum34==1.1.6
 funcsigs==1.0.2
 functools32==3.2.3.post2
 idna==2.8
-ipaddress==1.0.17
+ipaddress==1.0.22
 ipython==5.5.0
 ipython-genutils==0.2.0
 jsonschema==2.6.0
