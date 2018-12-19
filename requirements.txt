@@ -40,7 +40,7 @@ PyYAML==3.13
 ranger==1.8.1
 requests==2.21.0
 scandir==1.9.0
-SecretStorage==2.3.1
+SecretStorage==3.1.0
 simplegeneric==0.8.1
 six==1.11.0
 speech==0.5.2
