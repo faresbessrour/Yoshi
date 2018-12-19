@@ -48,7 +48,7 @@ SpeechRecognition==3.8.1
 texttable==1.5.0
 traitlets==4.3.2
 urllib3==1.24.1
-virtualenv==15.2.0
+virtualenv==16.1.0
 wcwidth==0.1.7
 websocket-client==0.44.0
 wxPython==3.0.2.0
