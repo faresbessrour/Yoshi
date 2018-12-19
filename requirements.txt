@@ -23,7 +23,7 @@ jsonschema==2.6.0
 keyring==17.0.0
 keyrings.alt==3.1.1
 mock==2.0.0
-pathlib2==2.3.0
+pathlib2==2.3.3
 pbr==3.1.1
 pexpect==4.2.1
 pickleshare==0.7.4
