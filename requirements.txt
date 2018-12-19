@@ -32,7 +32,7 @@ psutil==5.4.8
 PyAudio==0.2.11
 pycairo==1.18.0
 pycrypto==2.6.1
-Pygments==2.2.0
+Pygments==2.3.1
 pygobject==3.26.1
 pyOpenSSL==17.5.0
 pyxdg==0.25
