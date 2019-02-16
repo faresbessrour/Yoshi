@@ -1,6 +1,6 @@
 asn1crypto==0.24.0
 backports.shutil-get-terminal-size==1.0.0
-backports.ssl-match-hostname==3.5.0.1
+backports.ssl-match-hostname==3.7.0.1
 cached-property==1.5.1
 certifi==2018.11.29
 chardet==3.0.4
