@@ -27,7 +27,7 @@ pathlib2==2.3.3
 pbr==5.1.1
 pexpect==4.6.0
 pickleshare==0.7.5
-prompt-toolkit==2.0.7
+prompt-toolkit==2.0.8
 psutil==5.4.8
 PyAudio==0.2.11
 pycairo==1.18.0
