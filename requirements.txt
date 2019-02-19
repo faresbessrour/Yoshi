@@ -17,7 +17,7 @@ funcsigs==1.0.2
 functools32==3.2.3.post2
 idna==2.8
 ipaddress==1.0.22
-ipython==7.2.0
+ipython==7.3.0
 ipython-genutils==0.2.0
 jsonschema==2.6.0
 keyring==17.0.0
