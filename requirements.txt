@@ -50,6 +50,6 @@ traitlets==4.3.2
 urllib3==1.24.1
 virtualenv==16.4.1
 wcwidth==0.1.7
-websocket-client==0.54.0
+websocket-client==0.55.0
 wxPython==4.0.4
 wxPython-common==3.0.2.0
