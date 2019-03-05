@@ -28,7 +28,7 @@ pbr==5.1.1
 pexpect==4.6.0
 pickleshare==0.7.5
 prompt-toolkit==2.0.9
-psutil==5.5.1
+psutil==5.6.0
 PyAudio==0.2.11
 pycairo==1.18.0
 pycrypto==2.6.1
