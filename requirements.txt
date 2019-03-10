@@ -4,7 +4,7 @@ backports.ssl-match-hostname==3.5.0.1
 cached-property==1.5.1
 certifi==2018.11.29
 chardet==3.0.4
-cryptography==2.4.2
+cryptography==2.6.1
 decorator==4.3.0
 dnspython==1.16.0
 docker==3.6.0
